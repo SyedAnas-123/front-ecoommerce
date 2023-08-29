@@ -1,0 +1,52 @@
+-- // CATEGORY API  CRUD  OPERTAIONNS
+
+
+
+-- making admi b menu, now work on admin dashbaord andusing grids.
+-- admin dashboard panel uskepages and user dashbaor user panel and user panels etc sbbana liya .
+
+-- 3: Now create Products in BCAKENED THE CREATE THEIRAPI THEN FETCH HERE .
+
+-- 4: CREATE NEW MODELS FRO CATEGORY AND PRODUCTS 
+
+-- 1: is for CATEGORY MODELS IN THAT WE USE npm i slugify 2:  now create controlllers and routes forcategory and in server made new route
+
+-- 5: NOW WE WORK ON UPDATE CATEGORY AND MAKE ANOTHER ROUTE ,AND DLETEE UPDATE ,GET CATEGORIES ETC
+
+
+
+--  PRODUCT API CRUD PERATION
+
+-- 1:product modelcreate krengen then routes hen controllers
+
+
+
+
+
+-- CATEGORY DISPLAYA AMD CRUD OP[ERTAIONM 
+
+`1: abh hmcategory kofrontend prdisplay krwaen gn admin dashbaord me or aik new formcreate krengen jski help se new category add krengenor usko upda6e kren gen .
+
+2: hmmko initialtimeemsari categopries chaheyen to  aaik funtion abanen egn craete category ke page me jo p[ages ke admin ke undr he]
+
+
+
+
+-- =============================PRODUCT DSIPALY AND CRUD OPERTAION 
+
+
+-- ========================AFTER CREATING PRODUCTS WE GET THEM IN ADMIN/PRODUCTS PAGE ===
+
+1:adding  categoris in admin panel
+
+
+
+
+--------------------2: WOORKING ON HOMEPAGE 
+
+
+----------------4 CART ---------------------------------
+1: 
+
+
+
